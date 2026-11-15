@@ -1,4 +1,4 @@
-# JailbreakHub
+# researchHub
 [![IMG-0949.jpg](https://i.postimg.cc/qRKzR7jV/IMG-0949.jpg)](https://postimg.cc/ygVVpsMv)
 ## Welcome to the LLM Jailbreak Hub
 
