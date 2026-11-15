@@ -1,6 +1,6 @@
 # researchHub
 [![IMG-0949.jpg](https://i.postimg.cc/qRKzR7jV/IMG-0949.jpg)](https://postimg.cc/ygVVpsMv)
-## Welcome to the LLM Jailbreak Hub
+## Welcome to the LLM research Hub
 
 This is a curated collection of prompts, techniques, and methodologies. Collected from Reddit, Discord servers, and even made by the maintainers too.
 This is NOT a hub of old 2023-2025 prompts. These are working, 2026 prompts.
